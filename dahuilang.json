@@ -9,10 +9,10 @@
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062262,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit2.ipa",
+            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/TrollStore-IPAs/icons/net.whatsapp.WhatsApp.png"
+            "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "微信多开2",
@@ -27,7 +27,7 @@
         },
         {
             "name": "微信多开3",
-            "bundleIdentifier": "com.tencent.xin_2",
+            "bundleIdentifier": "com.tencent.xin_3",
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062212,
@@ -38,7 +38,7 @@
         },
         {
             "name": "微信多开4",
-            "bundleIdentifier": "com.tencent.xin_3",
+            "bundleIdentifier": "com.tencent.xin_4",
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062222,
@@ -49,7 +49,7 @@
         },
         {
             "name": "Helium_1.2.3",
-            "bundleIdentifier": "com.tencent.xin_3",
+            "bundleIdentifier": "com.helim",
             "version": "1.2.3",
             "versionDate": "2023-12-22",
             "size": 68065522,
@@ -115,13 +115,13 @@
         },
         {
             "name": "花火阅读",
-            "bundleIdentifier": "com.huahuo",
+            "bundleIdentifier": "com.gentleflow.fireworksreader",
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 62062162,
             "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/huahuoyuedu_1.3.3.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "已修复",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/huahuo.png"
         },
         {
@@ -137,35 +137,35 @@
         },
         {
             "name": "番茄小说VIP可登录",
-            "bundleIdentifier": "com.fanqie",
+            "bundleIdentifier": "com.dragon.read",
             "version": "5.8.7",
             "versionDate": "2023-11-30",
             "size": 18065272,
             "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/fanqiexiaoshuo_5.8.7_VIP1.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "已修复",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/fanqiexiaoshuo.png"
         },
         {
             "name": "香色闺阁",
-            "bundleIdentifier": "com.xiangseguige",
+            "bundleIdentifier": "com.appbox.StandarReader",
             "version": "2.56.1",
             "versionDate": "2023-11-30",
             "size": 18062222,
             "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/xiangseguige_2.56.1.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "已修复",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/xiangseguige.png"
         },
         {
             "name": "源阅读可备份恢复",
-            "bundleIdentifier": "com.yuanyuedu",
+            "bundleIdentifier": "com.yuedu.sourceread",
             "version": "2.56.1",
             "versionDate": "2023-11-30",
             "size": 18062222,
             "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/yuanyuedu_9.9.9.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "已修复",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/yuanyuedu.png"
         },
         {
