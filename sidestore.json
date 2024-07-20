@@ -8,6 +8,7 @@
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "developerName": "XITRIX",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+      "localizedDescription": "What is it？",
       "versions": [
         {
           "version": "2.0.8-1",
@@ -30,6 +31,7 @@
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "developerName": "kodjodevf",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png",
+      "localizedDescription": "What is it？",
       "versions": [
         {
           "version": "0.2.75",
